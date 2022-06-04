@@ -21,7 +21,7 @@ void printQuestion(); // 문제 출력 (카드 지도)
 int foundAllAnimal();
 
 
-int main(void)
+int main_array_2(void)
 {
 	srand(time(NULL));
 	initAnimalArray();

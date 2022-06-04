@@ -1,4 +1,3 @@
-﻿  m_array_project.c
-C:\Users\pc\source\repos\Myproject\Myproject\m_array_project.c(26,7): warning C4013: 'srand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-C:\Users\pc\source\repos\Myproject\Myproject\m_array_project.c(145,21): warning C4013: 'rand'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  Myproject.vcxproj -> C:\Users\pc\source\repos\Myproject\x64\Debug\Myproject.exe
+﻿  struct_project.c
+C:\Users\pc\source\repos\C_study\Myproject\struct_project.c(31,12): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Myproject.vcxproj -> C:\Users\pc\source\repos\C_study\x64\Debug\Myproject.exe
