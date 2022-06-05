@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/home/Study/C_study'
+make: Leaving directory `/Users/home/Study/C_study'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

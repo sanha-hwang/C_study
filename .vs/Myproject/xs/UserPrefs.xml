@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Myproject/array.c">
+    <Files>
+      <File FileName="Myproject/condition.c" Line="1" Column="1" />
+      <File FileName="Myproject/struct_project.c" Line="9" Column="10" />
+      <File FileName="Myproject/.editorconfig" Line="2" Column="5" />
+      <File FileName="Myproject/array.c" Line="6" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Myproject" expanded="True">
+            <Node name="Myproject" expanded="True">
+              <Node name="array.c" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+</Properties>
